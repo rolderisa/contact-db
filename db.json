@@ -1,0 +1,25 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "phone": "+1 555-1234",
+      "email": "alice@example.com",
+      "avatar": "https://i.pravatar.cc/150?u=alice"
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "phone": "+1 555-5678",
+      "email": "bob@example.com",
+      "avatar": "https://i.pravatar.cc/150?u=bob"
+    },
+    {
+      "id": 3,
+      "name": "Carla Reyes",
+      "phone": "+1 555-4321",
+      "email": "carla@example.com",
+      "avatar": "https://i.pravatar.cc/150?u=carla"
+    }
+  ]
+}
