@@ -20,6 +20,13 @@
       "phone": "+1 555-4321",
       "email": "carla@example.com",
       "avatar": "https://i.pravatar.cc/150?u=carla"
+    },
+     {
+      "id": 4,
+      "name": "Carla Reyes",
+      "phone": "+1 555-4321",
+      "email": "carla@example.com",
+      "avatar": "https://i.pravatar.cc/150?u=carla"
     }
   ]
 }
